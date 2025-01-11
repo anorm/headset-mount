@@ -1,11 +1,16 @@
 # Headset mount
 
 A simple, yet effective, headset mount for clipping on to the edge of your desk.
+
 ![](preview/headset-mount.png)
 
 ## Customization
 
-TODO
+The main parameters to adjust are:
+
+- `table_thickness` - the thickness of the table onto which the mount will be attached
+- `headset_rise` - how far the center of the headset curve is above the edges of the mount
+- `clamp_pinch_angle` - angles the clamp slightly so to make it pinch the table
 
 ## How-to
 
